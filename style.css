@@ -121,3 +121,12 @@
     margin: 0.5px;
     background-color: #d35a54;
 }
+.but-up{
+    padding: 5px 5px;
+    border: 2rem;
+    font-size: 2rem;
+    color: #cf2e1c;
+}
+.but-up:hover{
+    color: #cf2e1c; 
+}
