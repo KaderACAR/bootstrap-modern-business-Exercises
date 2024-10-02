@@ -1,0 +1,123 @@
+.head-1{
+    background-color: #ffd8b7;
+    padding-top: 20rem;
+   background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    margin: 0;  
+}
+
+.nav-bar{
+    background-color:#ffecdc;
+}
+.heads-2{
+    font-size: 3.2rem;
+    align-items: center;
+    padding-top: 98px;
+    font-weight: bolder;
+    color: #cf2e1c;
+    
+}
+.prg-1{
+    color: rgba(207, 46, 28, 0.5);
+    font-size: 20px;
+    font-weight: semibold;
+    padding-top: 50px;
+}
+.but-on{
+    margin-left: 20px;
+    margin-top: 10px;
+   background-color: #cf2e1c;
+}
+
+.navbar-brand{
+    color: #cf2e1c !important;
+}
+.nav-link{
+    color: #cf2e1c !important;
+}
+.icon-i{
+    margin-top: 80px;
+    padding-bottom: 20px;
+}
+.he-ad{
+    color: #b12a17;
+}
+
+.feature{
+    background-color: #ffd8b7;
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 20px;
+}
+.wor-ky{
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 5px;
+    
+}
+.levi{
+    border-radius: 50% !important;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.card-1{
+    width: 88%;
+    align-items: center;
+    padding: 20px;
+    margin: 100px;
+    margin-top: auto;  
+    margin-bottom: auto; 
+   
+}
+.badge-bg{
+    background-color: #c82a17 !important;
+}
+
+.sing-up{
+    padding: 3rem !important;
+    margin:8.5%;
+    width: 85%;
+    align-items: start;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 0px;
+    background-color: #d35a54;
+}
+.footer-1{
+    background-color: #d35a54;
+}
+.te-am{
+    text-align: center;
+    
+}
+.pa-2{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+}
+
+.btn{
+    color: #132a13;
+    border-color: #132a13;
+    text-align: center;
+}
+.btn:hover{
+    color: white;
+    background-color: #132a13;
+}
+.bi-con{
+    height: 2rem;
+    width: 2rem;
+    font-size: 1.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0.5px;
+    background-color: #d35a54;
+}
